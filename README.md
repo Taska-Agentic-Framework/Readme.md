@@ -36,7 +36,7 @@ We're launching apps built on Taska protocol to prove value and drive adoption:
 From DeFi yield bots today to robotics and IoT tomorrow, we make it easy for anyone to see, prove, and trust autonomous actions.
 
 ### Roadmap
-- **Q4 2054** - Launch PoT-powered DeFi apps on Base
+- **Q4 2025** - Launch PoT-powered DeFi apps on Base
 - **Q1-Q2 2026** - Expand application suite, third-party integrations  
 - **H2 2026** - Taska AppChain for cheaper PoT batching
 - **2027+** - Robotics & IoT integration, enterprise adoption
